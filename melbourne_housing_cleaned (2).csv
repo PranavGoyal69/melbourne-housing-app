@@ -1,0 +1,176 @@
+suburb,address_display,property_type,bedrooms,bathrooms,car_spaces,land_size_sqm,sold_price_display,sale_date,agent,url
+Essendon,"10/332 Pascoe Vale Road, Essendon",Apartment,2,1,1,,"$360,000",25/07/2025,Tom Donnelley,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148399316
+Essendon,"8/225 Buckley Street, Essendon",Apartment,2,1,1,,"$427,500",24/07/2025,Luke Swannie,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148286020
+Essendon,"320/1044-1046 Mt Alexander Road, Essendon",Apartment,2,1,2,,"$400,000",23/07/2025,Suzy Pavlov,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148204772
+Essendon,"53 Deakin Street, Essendon",House,3,2,2,755,"$1,920,000",22/07/2025,Lara Harris,https://www.realestate.com.au/sold/property-house-vic-essendon-148234436
+Essendon,"24 Violet Street, Essendon",House,2,1,2,300,"$1,020,000",18/07/2025,Julia Murphy,https://www.realestate.com.au/sold/property-house-vic-essendon-146106152
+Essendon,"101/23 Russell Street, Essendon",Apartment,2,1,1,,"$432,500",18/07/2025,Caleb Venneri,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148049716
+Essendon,"7/324 Pascoe Vale Road, Essendon",Apartment,2,2,1,,"$600,000",16/07/2025,Abdul Allouche,https://www.realestate.com.au/sold/property-apartment-vic-essendon-146489184
+Essendon,"49a Waverley Street, Essendon",Townhouse,3,2,1,,"$865,000",15/07/2025,Anthony Elliott,https://www.realestate.com.au/sold/property-townhouse-vic-essendon-147620632
+Essendon,"15/96 Glass Street, Essendon",Unit,1,1,1,,"$295,000",15/07/2025,Mark Giardina,https://www.realestate.com.au/sold/property-unit-vic-essendon-148231640
+Essendon,"3/23 Fletcher Street, Essendon",Apartment,2,1,1,,"$525,000",14/07/2025,Christian Ianchello,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148289800
+Essendon,"3 Bradshaw Street, Essendon",House,3,2,6,676,"$1,841,000",12/07/2025,David Vaughan,https://www.realestate.com.au/sold/property-house-vic-essendon-148326316
+Essendon,"223 Pascoe Vale Road, Essendon",House,2,1,1,,"$1,012,500",11/07/2025,Michael Del Monte,https://www.realestate.com.au/sold/property-house-vic-essendon-148345160
+Essendon,"10/6 Sturt Street, Essendon",Apartment,2,2,1,,"$580,000",10/07/2025,Rhys Afford,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148236644
+Essendon,"3/119 Buckley Street, Essendon",Apartment,1,1,,,"$380,000",10/07/2025,Caleb Venneri,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148360304
+Essendon,"17 William Street, Essendon",House,5,3,4,,"$2,180,000",9/07/2025,Andrew Butler,https://www.realestate.com.au/sold/property-house-vic-essendon-147955296
+Essendon,"206/1050 Mt Alexander Road, Essendon",Apartment,2,1,1,,"$505,000",9/07/2025,Domenic Zanellini,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148250576
+Essendon,"74 Mcpherson Street, Essendon",House,5,2,2,604,"$2,375,000",5/07/2025,Lara Harris,https://www.realestate.com.au/sold/property-house-vic-essendon-148214200
+Essendon,"8a Raleigh Street, Essendon",House,4,2,2,,"$1,410,000",5/07/2025,Bruce Warburton,https://www.realestate.com.au/sold/property-house-vic-essendon-148015564
+Essendon,"2/37 Grice Crescent, Essendon",Unit,2,1,1,,"$447,500",5/07/2025,Rhys Afford,https://www.realestate.com.au/sold/property-unit-vic-essendon-148249872
+Essendon,"18/82 Raleigh Street, Essendon",Apartment,3,2,1,,"$780,000",3/07/2025,Flynn Grace,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148401668
+Essendon,"131 Deakin Street, Essendon",Townhouse,4,3,2,,"$1,541,000",2/07/2025,Julia Murphy,https://www.realestate.com.au/sold/property-townhouse-vic-essendon-148250112
+Essendon,"50 Mackay Street, Essendon",House,2,1,2,305,"$1,010,000",2/07/2025,Suzy Pavlov,https://www.realestate.com.au/sold/property-house-vic-essendon-148146160
+Essendon,"211/1005 Mt Alexander Road, Essendon",Apartment,1,1,1,,"$350,000",2/07/2025,Caleb Venneri,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148085068
+Essendon,"60 Bradshaw Street, Essendon",House,4,3,2,500,"$3,250,000",30/06/2025,Bonnie Shang,https://www.realestate.com.au/sold/property-house-vic-essendon-148194728
+Essendon,"1/60 Deakin Street, Essendon",Unit,3,1,1,,"$875,000",27/06/2025,Tony Catena,https://www.realestate.com.au/sold/property-unit-vic-essendon-147905520
+Essendon,"3/76 Market Street, Essendon",Townhouse,3,2,2,,"$1,010,000",14/09/2025,Angelo Taranto,https://www.realestate.com.au/sold/property-townhouse-vic-essendon-148781292
+Essendon,"5 Ballater Street, Essendon",House,5,2,2,972,"$2,601,000",13/09/2025,David Hutchinson,https://www.realestate.com.au/sold/property-house-vic-essendon-148837316
+Essendon,"20 Robb Street, Essendon",House,3,1,,,"$1,245,000",13/09/2025,John Matthews,https://www.realestate.com.au/sold/property-house-vic-essendon-148833360
+Essendon,"6/3 Ballater Street, Essendon",Unit,2,1,1,,"$550,000",13/09/2025,,https://www.realestate.com.au/sold/property-unit-vic-essendon-148851676
+Essendon,"9/119 Buckley Street, Essendon",Apartment,1,1,,,"$390,000",12/09/2025,Isaak Warburton,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148816012
+Essendon,"204/19 Russell Street, Essendon",Apartment,1,1,1,,"$310,000",10/09/2025,Alex Melnychuk,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148273044
+Essendon,"23 Queen Street, Essendon",House,3,2,3,,"$1,433,000",9/09/2025,Christian Lonzi,https://www.realestate.com.au/sold/property-house-vic-essendon-148796408
+Essendon,"14/13 Winifred Street, Essendon",Apartment,1,1,1,,"$315,000",9/09/2025,Shaun Sleiman,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148107248
+Essendon,"27 Raleigh Street, Essendon",House,4,2,2,920,"$2,642,500",6/09/2025,Christian Lonzi,https://www.realestate.com.au/sold/property-house-vic-essendon-148736312
+Essendon,"42 McCracken Street, Essendon",House,3,1,1,566,"$1,645,000",6/09/2025,Andrew Butler,https://www.realestate.com.au/sold/property-house-vic-essendon-148750516
+Essendon,"28 Deakin Street, Essendon",House,4,2,2,858,"$1,900,000",4/09/2025,David Vaughan,https://www.realestate.com.au/sold/property-house-vic-essendon-148086468
+Essendon,"2/60 Buckley Street, Essendon",Apartment,2,1,1,,"$650,000",3/09/2025,Georgie Brown,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148062856
+Essendon,"2/2A Cameron Road, Essendon",Townhouse,3,1,1,,"$685,000",1/09/2025,David Vaughan,https://www.realestate.com.au/sold/property-townhouse-vic-essendon-148784156
+Essendon,"28 Scott Street, Essendon",House,4,2,4,736,"$2,300,000",30/08/2025,Louis Nardella,https://www.realestate.com.au/sold/property-house-vic-essendon-148694396
+Essendon,"122 Market Street, Essendon",House,3,1,5,503,"$1,655,000",30/08/2025,Julia Murphy,https://www.realestate.com.au/sold/property-house-vic-essendon-148701032
+Essendon,"48 Roberts Street, Essendon",House,3,2,2,502,"$1,620,000",30/08/2025,Andrew Butler,https://www.realestate.com.au/sold/property-house-vic-essendon-148675492
+Essendon,"133 Deakin Street, Essendon",Townhouse,2,2,1,,"$863,000",30/08/2025,Natalie Drazic,https://www.realestate.com.au/sold/property-townhouse-vic-essendon-148271040
+Essendon,"7A Warner Street, Essendon",Villa,2,1,2,,"$853,000",30/08/2025,Bruce Warburton,https://www.realestate.com.au/sold/property-villa-vic-essendon-148693480
+Essendon,"1/19 Ogilvie Street, Essendon",Townhouse,3,1,2,,"$858,000",29/08/2025,Stefan Stella,https://www.realestate.com.au/sold/property-townhouse-vic-essendon-148661564
+Essendon,"4 Elder Parade, Essendon",House,3,1,2,463,"$1,660,000",28/08/2025,Jason Sharpe,https://www.realestate.com.au/sold/property-house-vic-essendon-148674320
+Essendon,"14A Winifred Street, Essendon",Villa,3,1,2,,"$895,000",28/08/2025,Lachlan Sutton,https://www.realestate.com.au/sold/property-villa-vic-essendon-148766648
+Essendon,"106a/40 Collins Street, Essendon",Apartment,2,1,1,,"$490,000",27/08/2025,Matthew Febey,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148694952
+Essendon,"2/213 Buckley Street, Essendon",Apartment,2,2,1,,"$515,000",26/08/2025,Mereoni Robbins,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148712604
+Essendon,"65 Deakin Street, Essendon",House,4,2,3,579,"$1,875,000",25/08/2025,Craig Teal,https://www.realestate.com.au/sold/property-house-vic-essendon-148619540
+Essendon,"46 Market Street, Essendon",House,5,3,4,503,"$3,040,000",23/08/2025,Christian Lonzi,https://www.realestate.com.au/sold/property-house-vic-essendon-148115252
+Bentleigh,"6 Lockwood Street, Bentleigh",House,3,2,4,680,"$1,820,000",14/03/2025,Robert De Freitas,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147386836
+Bentleigh,"4/27-29 Bent Street, Bentleigh",Apartment,2,1,1,125,"$635,000",13/03/2025,Natalie Tan,https://www.realestate.com.au/sold/property-apartment-vic-bentleigh-146999552
+Bentleigh,,Apartment,2,1,1,,"$522,000",13/03/2025,Aviv Samuel,https://www.realestate.com.au/sold/property-apartment-vic-bentleigh-147276004
+Bentleigh,"12a Harding Street, Bentleigh",Townhouse,4,3,2,,"$1,755,000",12/03/2025,Jack Liu,https://www.realestate.com.au/sold/property-townhouse-vic-bentleigh-147038316
+Bentleigh,"111/25 Nicholson Street, Bentleigh",Apartment,2,2,1,,"$635,000",12/03/2025,Leor Bar,https://www.realestate.com.au/sold/property-apartment-vic-bentleigh-147298096
+Bentleigh,"2/44 Lindsay Street, Bentleigh",Townhouse,3,2,2,346,"$1,355,000",8/03/2025,Charles Xu,https://www.realestate.com.au/sold/property-townhouse-vic-bentleigh-147166728
+Bentleigh,"15 Wright Street, Bentleigh",House,4,4,4,751,"$3,680,000",2/03/2025,George Korderas,https://www.realestate.com.au/sold/property-house-vic-bentleigh-146649860
+Bentleigh,"27 Wavell Street, Bentleigh",House,4,1,2,,"$1,782,000",1/03/2025,Charles Xu,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147161572
+Bentleigh,"96a Jasper Road, Bentleigh",Townhouse,4,3,2,,"$1,690,000",1/03/2025,Chris Hassall,https://www.realestate.com.au/sold/property-townhouse-vic-bentleigh-147174392
+Bentleigh,"45 Luckins Road, Bentleigh",House,3,1,2,,"$1,180,000",27/02/2025,Kosta Mesaritis,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147111552
+Bentleigh,"202/451-453 South Road, Bentleigh",Apartment,2,2,1,,"$510,000",26/02/2025,Angela Limanis,https://www.realestate.com.au/sold/property-apartment-vic-bentleigh-147133812
+Bentleigh,"301/82 Mitchell Street, Bentleigh",Unit,2,2,1,,"$890,000",23/02/2025,,https://www.realestate.com.au/sold/property-unit-vic-bentleigh-147084688
+Bentleigh,,House,3,1,3,880,"$1,775,000",22/02/2025,Tony Che,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147056528
+Bentleigh,"5 Railway Crescent, Bentleigh",House,3,1,2,579,"$1,081,000",22/02/2025,Paul Johnston,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147119272
+Bentleigh,"3/34 Paschal Street, Bentleigh",Unit,2,1,1,260,"$880,000",22/02/2025,Kevin Chokshi,https://www.realestate.com.au/sold/property-unit-vic-bentleigh-147091520
+Bentleigh,"1/150A Tucker Road, Bentleigh",Unit,3,1,1,,"$600,000",21/02/2025,Charlie La Fontaine,https://www.realestate.com.au/sold/property-unit-vic-bentleigh-147104388
+Bentleigh,"301/2 Blair Street, Bentleigh",Apartment,2,2,1,124,"$755,000",20/02/2025,Natalie Tan,https://www.realestate.com.au/sold/property-apartment-vic-bentleigh-147092072
+Bentleigh,"12/22 South Avenue, Bentleigh",Townhouse,2,2,1,,"$725,000",20/02/2025,Dimitri Damianos,https://www.realestate.com.au/sold/property-townhouse-vic-bentleigh-147099480
+Bentleigh,"104/22-26 Bent Street, Bentleigh",Apartment,2,2,1,,"$570,000",19/02/2025,Jack Liu,https://www.realestate.com.au/sold/property-apartment-vic-bentleigh-146625924
+Bentleigh,"41 Paschal Street, Bentleigh",House,3,1,3,615,"$1,415,000",16/02/2025,Chris Hassall,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147158524
+Bentleigh,"72 Jasper Road, Bentleigh",House,3,2,2,702,"$1,445,000",15/02/2025,Chris Hassall,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147092848
+Bentleigh,"12/1D Tovan Akas Avenue, Bentleigh",Townhouse,3,2,2,,"$932,500",15/02/2025,Ruth Roberts,https://www.realestate.com.au/sold/property-townhouse-vic-bentleigh-147047660
+Bentleigh,"2/523 South Road, Bentleigh",Unit,3,2,1,264,"$988,000",11/02/2025,Belinda Van Suylen,https://www.realestate.com.au/sold/property-unit-vic-bentleigh-146316964
+Bentleigh,"45 Gilmour Road, Bentleigh",House,5,3,3,698,"$2,064,000",8/02/2025,Tony Che,https://www.realestate.com.au/sold/property-house-vic-bentleigh-146919964
+Bentleigh,"8/187 Tucker Road, Bentleigh",Apartment,3,1,1,,"$675,000",6/02/2025,Connor Harvey,https://www.realestate.com.au/sold/property-apartment-vic-bentleigh-146018224
+Bentleigh,"8 Marquis Road, Bentleigh",House,3,1,1,789,"$1,740,000",10/05/2025,Anthony Fordham,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147793080
+Bentleigh,"92 Jasper Road, Bentleigh",House,3,1,4,628,"$1,560,000",10/05/2025,Connor Harvey,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147737780
+Bentleigh,"4 Wyuna Court, Bentleigh",House,3,1,4,613,"$1,433,000",10/05/2025,Trent Collie,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147742656
+Bentleigh,"35B Loranne Street, Bentleigh",Townhouse,4,2,2,347,"$1,746,000",3/05/2025,Anthony Fordham,https://www.realestate.com.au/sold/property-townhouse-vic-bentleigh-147735656
+Bentleigh,"101/15 Hamilton Street, Bentleigh",Apartment,2,2,1,,"$870,000",30/04/2025,Angela Limanis,https://www.realestate.com.au/sold/property-apartment-vic-bentleigh-147445320
+Bentleigh,"203/18 Hamilton Street, Bentleigh",Apartment,2,2,1,,"$660,000",29/04/2025,Natalie Tan,https://www.realestate.com.au/sold/property-apartment-vic-bentleigh-147746184
+Bentleigh,"102/23 Bent Street, Bentleigh",Apartment,1,1,1,,"$390,000",24/04/2025,Eddie Wang,https://www.realestate.com.au/sold/property-apartment-vic-bentleigh-147705616
+Bentleigh,"6 Oak Street, Bentleigh",House,5,3,2,,"$2,090,000",16/04/2025,Claude Mery,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147629484
+Bentleigh,"10A Luckins Road, Bentleigh",Townhouse,4,3,2,,"$1,745,000",16/04/2025,Gary Yue,https://www.realestate.com.au/sold/property-townhouse-vic-bentleigh-146145848
+Bentleigh,"501/324 Centre Road, Bentleigh",Apartment,2,2,1,92,"$711,000",15/04/2025,Natalie Tan,https://www.realestate.com.au/sold/property-apartment-vic-bentleigh-147607380
+Bentleigh,"40 Strathmore Street, Bentleigh",House,3,1,2,605,"$1,675,500",12/04/2025,Matthew George,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147556900
+Bentleigh,"110 Tucker Road, Bentleigh",House,4,2,3,639,"$1,420,000",12/04/2025,Chris Hassall,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147557004
+Bentleigh,"8/80 Robert Street, Bentleigh",Apartment,1,1,1,,"$404,000",10/04/2025,John Pantelios,https://www.realestate.com.au/sold/property-apartment-vic-bentleigh-147557944
+Bentleigh,"20B Cushing Avenue, Bentleigh",Townhouse,4,4,2,,"$1,680,000",5/04/2025,Ben Quigley,https://www.realestate.com.au/sold/property-townhouse-vic-bentleigh-147584564
+Bentleigh,,House,4,2,3,650,"$1,590,000",5/04/2025,Leon Gouzenfiter,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147486132
+Bentleigh,"8 London Street, Bentleigh",House,5,4,2,,"$4,000,000",4/04/2025,Sam Maley,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147618244
+Bentleigh,"304/29 Loranne Street, Bentleigh",Apartment,2,2,1,,"$560,000",4/04/2025,Natalie Tan,https://www.realestate.com.au/sold/property-apartment-vic-bentleigh-147194796
+Bentleigh,"1/31 Mavho Street, Bentleigh",Unit,3,2,2,,"$1,350,000",2/04/2025,Chris Hassall,https://www.realestate.com.au/sold/property-unit-vic-bentleigh-147500228
+Bentleigh,"33 The Highway, Bentleigh",House,4,3,3,511,"$2,150,000",29/03/2025,Leon Gouzenfiter,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147412148
+Bentleigh,"10 Roma Street, Bentleigh",House,3,1,3,592,"$1,516,888",26/03/2025,Chris Hassall,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147484616
+Bentleigh,,Apartment,2,1,1,,"$641,000",26/03/2025,Ivan Blow,https://www.realestate.com.au/sold/property-apartment-vic-bentleigh-147492648
+Bentleigh,"1c Loranne Street, Bentleigh",Townhouse,3,2,2,,"$1,760,000",22/03/2025,Trent Collie,https://www.realestate.com.au/sold/property-townhouse-vic-bentleigh-147341888
+Bentleigh,"28 Glenmer Street, Bentleigh",House,3,2,2,,"$1,150,000",22/03/2025,Benjamin Dax,https://www.realestate.com.au/sold/property-house-vic-bentleigh-147367736
+Bentleigh,"10/616-618 Centre Road, Bentleigh",Apartment,1,1,1,,"$360,000",16/03/2025,Peter Serafino,https://www.realestate.com.au/sold/property-apartment-vic-bentleigh-147035080
+Bentleigh,"18/27 Patterson Road, Bentleigh",Unit,2,1,1,111,"$760,000",15/03/2025,Gerry Setiyadi,https://www.realestate.com.au/sold/property-unit-vic-bentleigh-147292980
+Burwood,"25/388-390 Burwood Highway, Burwood",Apartment,1,1,1,,"$132,000",21/07/2025,Navii Sarai,https://www.realestate.com.au/sold/property-apartment-vic-burwood-142976088
+Burwood,"25/388 - 390 Burwood Highway, Burwood",Apartment,1,1,1,,"$132,000",21/07/2025,Navii Sarai,https://www.realestate.com.au/sold/property-apartment-vic-burwood-147800640
+Burwood,"13 Finch Street, Burwood",House,3,1,1,664,"$1,512,500",19/07/2025,Michael Alevras,https://www.realestate.com.au/sold/property-house-vic-burwood-148290852
+Burwood,"208/224-226 Burwood Highway, Burwood",Apartment,2,2,1,,"$260,000",16/07/2025,Larry Zhou,https://www.realestate.com.au/sold/property-apartment-vic-burwood-148463000
+Burwood,"1/117 Station Street, Burwood",Unit,3,1,2,,"$805,000",15/07/2025,Charles Shi,https://www.realestate.com.au/sold/property-unit-vic-burwood-148263564
+Burwood,"18 Spence Street, Burwood",House,5,3,2,700,"$1,653,000",12/07/2025,Eddie Fu,https://www.realestate.com.au/sold/property-house-vic-burwood-148236948
+Burwood,"3/84-86 Roslyn Street, Burwood",Unit,2,1,1,,"$700,000",11/07/2025,Joe Qiao,https://www.realestate.com.au/sold/property-unit-vic-burwood-148130020
+Burwood,"110/4 Yarra Bing Crescent, Burwood",Apartment,1,1,1,,"$340,000",8/07/2025,Olivia Liang,https://www.realestate.com.au/sold/property-apartment-vic-burwood-148342484
+Burwood,"3/11 Bronte Avenue, Burwood",House,4,4,2,,"$1,380,000",5/07/2025,Miles Chen,https://www.realestate.com.au/sold/property-house-vic-burwood-148204828
+Burwood,"2/55 Andrews Street, Burwood",Townhouse,4,2,2,226,"$1,250,000",4/07/2025,Hans Liu,https://www.realestate.com.au/sold/property-townhouse-vic-burwood-148233352
+Burwood,"11 Carmody Street, Burwood",House,3,2,2,,"$1,230,000",2/07/2025,Nicole Lismore,https://www.realestate.com.au/sold/property-house-vic-burwood-148218752
+Burwood,"3/17 Sunhill Avenue, Burwood",Townhouse,4,2,2,252,"$1,181,000",28/06/2025,Hans Liu,https://www.realestate.com.au/sold/property-townhouse-vic-burwood-148174052
+Burwood,"8/383-389 Warrigal Road, Burwood",Unit,2,1,1,,"$740,000",25/06/2025,Nicole Lismore,https://www.realestate.com.au/sold/property-unit-vic-burwood-148174284
+Burwood,"202/1 Delany Avenue, Burwood",Apartment,1,1,,,"$125,250",20/06/2025,Ya Fei Dong,https://www.realestate.com.au/sold/property-apartment-vic-burwood-148214784
+Burwood,"30 Leopold Street, Burwood",House,4,2,2,836,"$1,775,000",19/06/2025,Peter Serafino,https://www.realestate.com.au/sold/property-house-vic-burwood-148185328
+Burwood,"1/15 Edwards Street, Burwood",House,4,3,2,,"$1,630,000",16/06/2025,Laurence Murphy,https://www.realestate.com.au/sold/property-house-vic-burwood-147873848
+Burwood,"1/19 Farleigh Avenue, Burwood",Townhouse,3,3,2,,"$1,281,000",14/06/2025,Janelle Gu,https://www.realestate.com.au/sold/property-townhouse-vic-burwood-148091972
+Burwood,"2/26-28 Bennett Street, Burwood",Townhouse,2,2,1,,"$870,000",14/06/2025,Cain Wang,https://www.realestate.com.au/sold/property-townhouse-vic-burwood-148066772
+Burwood,"301/326-328 Burwood Highway, Burwood",Apartment,2,1,1,83,"$470,000",12/06/2025,Steven Zervas,https://www.realestate.com.au/sold/property-apartment-vic-burwood-148009244
+Burwood,"23 Iris Street, Burwood",House,4,3,2,673,"$1,700,000",7/06/2025,Hans Liu,https://www.realestate.com.au/sold/property-house-vic-burwood-147997964
+Burwood,"6/38 Livingstone Close, Burwood",Unit,2,1,2,,"$740,000",5/06/2025,Yin Yin Loh,https://www.realestate.com.au/sold/property-unit-vic-burwood-148062452
+Burwood,"243 Warrigal Road, Burwood",House,3,2,2,,"$910,000",3/06/2025,Nicole Lismore,https://www.realestate.com.au/sold/property-house-vic-burwood-147913076
+Burwood,"3/22 Summit Road, Burwood",Townhouse,4,3,2,,"$1,250,000",2/06/2025,John Zhang,https://www.realestate.com.au/sold/property-townhouse-vic-burwood-147716228
+Burwood,"38 Uganda Street, Burwood",House,4,2,2,568,"$2,365,000",31/05/2025,Ming Chen,https://www.realestate.com.au/sold/property-house-vic-burwood-147941580
+Burwood,"2 Webb Street, Burwood",House,3,1,2,739,"$1,425,000",31/05/2025,Hans Liu,https://www.realestate.com.au/sold/property-house-vic-burwood-147957612
+Burwood,"1 Maiden Court, Burwood",House,5,2,2,473,"$1,692,000",13/09/2025,Jared Wei,https://www.realestate.com.au/sold/property-house-vic-burwood-148772376
+Burwood,"26 Loudon Road, Burwood",House,3,2,2,438,"$1,625,000",13/09/2025,Hans Liu,https://www.realestate.com.au/sold/property-house-vic-burwood-148755616
+Burwood,"6/19 Hughes Street, Burwood",Townhouse,4,3,2,,"$1,082,000",13/09/2025,Stasi Adgemis,https://www.realestate.com.au/sold/property-townhouse-vic-burwood-148815244
+Burwood,"14 Puerta Street, Burwood",House,4,1,3,595,"$1,500,000",11/09/2025,Larry Zhou,https://www.realestate.com.au/sold/property-house-vic-burwood-148841512
+Burwood,"7 Webb Street, Burwood",House,4,2,2,726,"$2,120,000",6/09/2025,Nicole Lismore,https://www.realestate.com.au/sold/property-house-vic-burwood-148749480
+Burwood,"26 Winton Street, Burwood",House,5,2,2,637,"$1,275,000",6/09/2025,Hans Liu,https://www.realestate.com.au/sold/property-house-vic-burwood-148736712
+Burwood,"47 Peacock Street, Burwood",House,3,1,2,543,"$1,270,000",6/09/2025,Hans Liu,https://www.realestate.com.au/sold/property-house-vic-burwood-148754696
+Burwood,"1/10 Gillard Street, Burwood",Unit,3,1,2,269,"$919,000",6/09/2025,Nicole Lismore,https://www.realestate.com.au/sold/property-unit-vic-burwood-148722932
+Burwood,"12 Andrews Street, Burwood",House,5,2,2,682,"$1,400,000",3/09/2025,Hans Liu,https://www.realestate.com.au/sold/property-house-vic-burwood-148683668
+Burwood,"3/2 Alder Street, Burwood",Townhouse,3,2,2,207,"$1,192,000",30/08/2025,Hans Liu,https://www.realestate.com.au/sold/property-townhouse-vic-burwood-148654292
+Burwood,"207/224-226 Burwood Highway, Burwood",Apartment,2,2,1,,"$282,000",28/08/2025,Leigh Petropoulos,https://www.realestate.com.au/sold/property-apartment-vic-burwood-148803020
+Burwood,"16 Wattlebird Court, Burwood",House,5,2,2,483,"$2,288,000",23/08/2025,Hans Liu,https://www.realestate.com.au/sold/property-house-vic-burwood-148616072
+Burwood,"3/3 Havelock Street, Burwood",Townhouse,2,1,1,,"$930,000",23/08/2025,Nicole Lismore,https://www.realestate.com.au/sold/property-townhouse-vic-burwood-148621896
+Burwood,"5/411-413 Highbury Road, Burwood",Townhouse,3,2,2,,"$820,000",23/08/2025,Evan Zhang,https://www.realestate.com.au/sold/property-townhouse-vic-burwood-148634016
+Burwood,"2/368 Burwood Highway, Burwood",Townhouse,3,2,1,,"$780,000",21/08/2025,Christine Bafas,https://www.realestate.com.au/sold/property-townhouse-vic-burwood-148653060
+Burwood,"9 Sparks Avenue, Burwood",House,5,2,2,558,"$1,350,000",16/08/2025,Hans Liu,https://www.realestate.com.au/sold/property-house-vic-burwood-148573776
+Burwood,"5/45-47 Greenwood Street, Burwood",House,4,2,2,312,"$1,255,000",16/08/2025,Neil Zheng,https://www.realestate.com.au/sold/property-house-vic-burwood-148564792
+Burwood,"23B Montpellier Road, Burwood",Townhouse,4,3,3,327,"$1,530,500",9/08/2025,Nicole Lismore,https://www.realestate.com.au/sold/property-townhouse-vic-burwood-148515656
+Burwood,"11 Loudon Road, Burwood",House,3,1,1,,"$1,135,000",9/08/2025,Sarah Lowry,https://www.realestate.com.au/sold/property-house-vic-burwood-148534496
+Burwood,"G04/362 Burwood Highway, Burwood",Apartment,2,2,1,,"$620,000",8/08/2025,Joo Ming Lim,https://www.realestate.com.au/sold/property-apartment-vic-burwood-148120620
+Burwood,"G12B/57 Middleborough Road, Burwood",Unit,2,2,1,,"$500,000",8/08/2025,Chelsea Deng,https://www.realestate.com.au/sold/property-unit-vic-burwood-148392088
+Burwood,"8 Fletcher Parade, Burwood",House,4,3,1,588,"$1,415,000",2/08/2025,Hans Liu,https://www.realestate.com.au/sold/property-house-vic-burwood-147597080
+Burwood,"27 Edwards Street, Burwood",House,4,2,2,112,"$2,115,000",26/07/2025,Hans Liu,https://www.realestate.com.au/sold/property-house-vic-burwood-148395884
+Burwood,"14A Goold Street, Burwood",Townhouse,4,3,2,,"$1,528,000",26/07/2025,Larry Zhou,https://www.realestate.com.au/sold/property-townhouse-vic-burwood-148113988
+Burwood,"3/5 Renown Street, Burwood",Unit,2,1,1,,"$825,000",26/07/2025,Nicole Lismore,https://www.realestate.com.au/sold/property-unit-vic-burwood-148385916
+Essendon,"12 Garden Street, Essendon",House,3,2,,337,"$1,410,000",23/08/2025,Jordan Mahch,https://www.realestate.com.au/sold/property-house-vic-essendon-148667864
+Essendon,"307/19 Russell Street, Essendon",Apartment,1,1,1,,"$320,000",23/08/2025,Pierre Hadchiti,https://www.realestate.com.au/sold/property-apartment-vic-essendon-147352004
+Essendon,"104 Primrose Street, Essendon",House,3,1,1,390,"$1,590,000",22/08/2025,Christian Lonzi,https://www.realestate.com.au/sold/property-house-vic-essendon-148690912
+Essendon,"6/55 Ogilvie Street, Essendon",,2,1,1,,"$447,000",22/08/2025,Caleb Venneri,https://www.realestate.com.au/sold/property-flat-vic-essendon-148619604
+Essendon,"4/39 King Street, Essendon",Townhouse,2,1,1,,"$730,000",21/08/2025,Zach Sianos,https://www.realestate.com.au/sold/property-townhouse-vic-essendon-148616956
+Essendon,"6/23 Daisy Street, Essendon",Apartment,2,1,1,,"$490,000",21/08/2025,David Mogford,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148524488
+Essendon,"2/156A Napier Street, Essendon",Unit,1,1,1,,"$305,000",21/08/2025,Luke Swannie,https://www.realestate.com.au/sold/property-unit-vic-essendon-147735088
+Essendon,"111/21 Glass Street, Essendon",Apartment,2,2,1,,"$623,500",20/08/2025,Kieran Moloney,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148686676
+Essendon,"7/82 Richardson Street, Essendon",Townhouse,2,2,1,,"$682,000",18/08/2025,Silvana Pannia,https://www.realestate.com.au/sold/property-townhouse-vic-essendon-148602204
+Essendon,"3/48 Richardson Street, Essendon",Unit,2,1,1,,"$621,000",18/08/2025,Andrew Montalto,https://www.realestate.com.au/sold/property-unit-vic-essendon-147713000
+Essendon,"98C Napier Street, Essendon",Townhouse,2,1,2,,"$1,013,000",17/08/2025,Silvana Pannia,https://www.realestate.com.au/sold/property-townhouse-vic-essendon-148569720
+Essendon,"56A Bradshaw Street, Essendon",House,5,3,3,,"$2,260,000",16/08/2025,Joe Zucco,https://www.realestate.com.au/sold/property-house-vic-essendon-148567760
+Essendon,"8 Spencer Street, Essendon",House,4,2,,,"$1,454,000",16/08/2025,John Matthews,https://www.realestate.com.au/sold/property-house-vic-essendon-148587080
+Essendon,"1/16 Fitzgerald Road, Essendon",Villa,2,1,2,,"$815,000",16/08/2025,Lachlan Sutton,https://www.realestate.com.au/sold/property-villa-vic-essendon-148630996
+Essendon,"2/143 Bradshaw Street, Essendon",Unit,2,1,1,,"$780,000",12/08/2025,Kieran Moloney,https://www.realestate.com.au/sold/property-unit-vic-essendon-148583396
+Essendon,"3/50 Deakin Street, Essendon",Unit,3,2,1,,"$995,000",11/08/2025,Georgie Maggs,https://www.realestate.com.au/sold/property-unit-vic-essendon-148644448
+Essendon,"5/225 Buckley Street, Essendon",Apartment,2,1,1,,"$440,000",9/08/2025,Eleanor Currie,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148588332
+Essendon,"3/1072 Mt Alexander Road, Essendon",Apartment,2,1,1,,"$537,000",8/08/2025,Scott Latham,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148304788
+Essendon,"1/14 Balmoral Street, Essendon",Unit,2,1,2,,"$725,500",7/08/2025,Anthony Elliott,https://www.realestate.com.au/sold/property-unit-vic-essendon-148542184
+Essendon,"6/60 Buckley Street, Essendon",Apartment,2,1,1,,"$560,000",6/08/2025,Georgie Brown,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148145052
+Essendon,"75 Napier Crescent, Essendon",House,4,3,2,,"$1,935,000",2/08/2025,Matthew Febey,https://www.realestate.com.au/sold/property-house-vic-essendon-148467804
+Essendon,"7/22 Fletcher Street, Essendon",Townhouse,3,1,1,,"$870,000",2/08/2025,Christy Liden,https://www.realestate.com.au/sold/property-townhouse-vic-essendon-148466340
+Essendon,"1/14 Hesleden Street, Essendon",Villa,2,1,1,276,"$760,000",2/08/2025,David Vaughan,https://www.realestate.com.au/sold/property-villa-vic-essendon-148448796
+Essendon,"201/87-89 Raleigh Street, Essendon",Apartment,2,1,1,,"$510,500",26/07/2025,David Vaughan,https://www.realestate.com.au/sold/property-apartment-vic-essendon-148503304
+Essendon,"78 Deakin Street, Essendon",House,4,3,2,,"$1,850,000",25/07/2025,John Matthews,https://www.realestate.com.au/sold/property-house-vic-essendon-148427696
